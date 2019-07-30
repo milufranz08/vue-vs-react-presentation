@@ -32,13 +32,17 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 [The Vue.js Master Class](https://vueschool.io/lessons/understanding-the-vuejs-lifecycle-hooks?friend=vuejs)
 
 ### React
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[React: Performance Optimizations](https://reactjs.org/docs/hooks-faq.html#how-do-i-implement-shouldcomponentupdate)
+
+[The difference between Virtual DOM and DOM](https://reactkungfu.com/2015/10/the-difference-between-virtual-dom-and-dom/)
+
+[React: Getting Started](https://facebook.github.io/create-react-app/docs/getting-started)
+
+[Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
+
+[React Hooks | useEffect for Life-Cycle Events (Tricks & Tips)](https://medium.com/simars/react-hooks-manage-life-cycle-events-tricks-and-tips-7ed13f52ba12)
+
+[How to understand a component’s lifecycle methods in ReactJS](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/)
 
 ### General
 []()
