@@ -44,11 +44,19 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 
 [How to understand a component’s lifecycle methods in ReactJS](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/)
 
-### General
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[React: The Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
+
+### Other
+[Understanding Component-Based Architecture](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238)
+
+[Vue vs. React in 2019: Which Framework to Choose and When](https://www.monterail.com/blog/vue-vs-react-2019)
+
+[2019 HackerRank Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
+
+[The State of JavaScript Survey 2018](https://2018.stateofjs.com/awards/)
+
+[Chapter 1. What Is React?](https://www.oreilly.com/library/view/what-react-is/9781491996744/ch01.html)
+
+[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+[StackOverflow Survey: Most Popular Technologies](https://insights.stackoverflow.com/survey/2019#technology)
