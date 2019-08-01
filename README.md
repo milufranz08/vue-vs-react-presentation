@@ -33,6 +33,8 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 
 [Vue: Reactivity in Depth](https://vuejs.org/v2/guide/reactivity.html#Change-Detection-Caveats)
 
+[Vue in 2019](https://naturaily.com/blog/vue-2019)
+
 ### React
 [React: Performance Optimizations](https://reactjs.org/docs/hooks-faq.html#how-do-i-implement-shouldcomponentupdate)
 
@@ -50,6 +52,12 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 
 [The basics of Hooks](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
 
+[Chapter 1. What Is React?](https://www.oreilly.com/library/view/what-react-is/9781491996744/ch01.html)
+
+[React 16.x Roadmap](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html#react-166-shipped-the-one-with-suspense-for-code-splitting)
+
+[The future of React](https://blog.logrocket.com/the-future-of-react-unfolding-with-suspense/)
+
 ### Other
 [Understanding Component-Based Architecture](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238)
 
@@ -59,8 +67,8 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 
 [The State of JavaScript Survey 2018](https://2018.stateofjs.com/awards/)
 
-[Chapter 1. What Is React?](https://www.oreilly.com/library/view/what-react-is/9781491996744/ch01.html)
-
 [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 [StackOverflow Survey: Most Popular Technologies](https://insights.stackoverflow.com/survey/2019#technology)
+
+[Vue vs React in 2019 - a comparison from a business perspective](https://naturaily.com/blog/vue-vs-react-2019-business-comparison?source=post_page---------------------------)
