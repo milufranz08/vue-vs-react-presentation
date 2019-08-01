@@ -31,6 +31,8 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 
 [The Vue.js Master Class](https://vueschool.io/lessons/understanding-the-vuejs-lifecycle-hooks?friend=vuejs)
 
+[Vue: Reactivity in Depth](https://vuejs.org/v2/guide/reactivity.html#Change-Detection-Caveats)
+
 ### React
 [React: Performance Optimizations](https://reactjs.org/docs/hooks-faq.html#how-do-i-implement-shouldcomponentupdate)
 
@@ -45,6 +47,8 @@ Provides link and references to Vue.js Vs ReactJS talk at JavaScript and Friends
 [How to understand a component’s lifecycle methods in ReactJS](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/)
 
 [React: The Virtual DOM](https://www.codecademy.com/articles/react-virtual-dom)
+
+[The basics of Hooks](https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8)
 
 ### Other
 [Understanding Component-Based Architecture](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238)
